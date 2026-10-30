@@ -1,0 +1,7 @@
+{
+  "name": "whale-overlay",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.js",
+  "description": "DSH 桌面端的置顶透明小鲸鱼：音量张嘴、暂停特写、鼠标驱动帧、双击隐藏"
+}

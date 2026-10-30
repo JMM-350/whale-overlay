@@ -1,0 +1,8 @@
+{
+  "name": "whale-overlay-host",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "description": "把 dsh-whale-widget 投到独立置顶透明窗口（宿主侧）"
+}

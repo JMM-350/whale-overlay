@@ -1,0 +1,14 @@
+# 打包产物
+小鲸鱼挂件-一键安装.ps1
+*.zip
+
+# 帧的原始/中间产物
+tools/mouth-raw/
+tools/mouth-frames-backup/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
